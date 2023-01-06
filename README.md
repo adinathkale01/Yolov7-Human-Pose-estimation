@@ -21,6 +21,8 @@ In this project,Implemented Yolov7-pose for Human pose estimation
 8. For Pushup_counting use pushup_counter.py file and to execute this file use following command
 #For CPU
   * python pushup_counter.py --source "pushup.mp4" --device 0 --curltracker=True
+# Results/Outputs videos
+
 # References 
 * https://github.com/WongKinYiu/yolov7.git
 * https://github.com/RizwanMunawar/yolov7-pose-estimation.git
