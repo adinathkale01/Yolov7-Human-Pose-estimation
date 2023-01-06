@@ -8,7 +8,7 @@ In this project,Implemented Yolov7-pose for Human pose estimation
 2.To activate environment 
   * conda activate yolov7_custom 
 3. clone the repository
-  * 
+  * https://github.com/adinathkale01/Yolov7-Human-Pose-estimation.git
 4. Go to cloned folder
   * cd yolov7-pose-estimation
 5. Install pakages using following command
