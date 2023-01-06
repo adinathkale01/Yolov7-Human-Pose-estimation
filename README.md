@@ -16,10 +16,10 @@ In this project,Implemented Yolov7-pose for Human pose estimation
 6. Download Yolov7 pose estimation weights from official github and put it inside current working directory 
   * https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-pose.pt
 7. For pose estimation on video/webcam use pose-estimate.py fileo and to execute this file use following command.
-  ### For CPU
+#For CPU
   * python pose-estimate.py --source "your custom video.mp4" --device cpu
 8. For Pushup_counting use pushup_counter.py file and to execute this file use following command
-  ### For CPU
+#For CPU
   * python pushup_counter.py --source "pushup.mp4" --device 0 --curltracker=True
 # References 
 * https://github.com/WongKinYiu/yolov7.git
