@@ -3,9 +3,9 @@ In this project,Implemented Yolov7-pose for Human pose estimation
 
 
 # setup to run code on windows 11
-1.create virtual environment in anaconda prompt using following command 
+1. create virtual environment in anaconda prompt using following command 
   * conda create -n yolov7_custom python=3.9
-2.To activate environment 
+2. To activate environment 
   * conda activate yolov7_custom 
 3. clone the repository
   * https://github.com/adinathkale01/Yolov7-Human-Pose-estimation.git
